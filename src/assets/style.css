@@ -1,0 +1,57 @@
+@media (max-width: 1724px) {
+    .res{
+     width: 100px;
+    }
+}
+@media (max-width: 1034px) {
+    .res{
+ position: absolute;
+ top: 80px;
+
+    }
+    .logn{
+    float: left;
+    }
+    .sign{
+right: 0;
+    }
+   
+.nav{
+position: relative;
+right: -10vw;
+width: 100%;
+}
+}
+@media (max-width: 774px) {
+.contmap{
+    margin: 20px;
+    padding: 10px;
+    background-attachment: fixed;
+}
+    .res{
+        position: absolute;
+        top: 25px;margin: -30px 60px;
+   
+       
+           }
+           
+.nav{
+visibility: hidden;
+}
+
+.searsh{
+   
+display: flex;
+gap: 10vw;
+margin-top: 10px;
+flex-wrap: wrap;
+}
+.head{
+    display: flex !important;
+flex-direction: column !important;
+
+
+}
+
+
+}
